@@ -1,27 +1,54 @@
 # PlaystationStoreApp
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.1.6.
+## Descrição do Projeto
 
-## Development server
+Este projeto foi desenvolvido como parte do desafio proposto pelo Bootcamp Santander 2023 - Fullstack Java+Angular. O objetivo principal é recriar a interface da PlayStation Store utilizando Angular. Este desafio proporcionou uma oportunidade valiosa para aprimorar habilidades no desenvolvimento com Angular, compreender a estrutura do framework, aplicar componentes de layout de forma eficaz, realizar refatorações pontuais e organizar o projeto de maneira coerente.
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+## Tecnologias Utilizadas
 
-## Code scaffolding
+- Angular
+- HTML
+- CSS
+- Outras dependências específicas do Angular (verifique o arquivo `package.json` para obter detalhes)
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+## Como Executar o Projeto
 
-## Build
+Siga as instruções abaixo para executar o projeto em seu ambiente local:
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
+1. **Clone o Repositório:**
+   ```
+   git clone https://github.com/Lexleon-Oliver/PlaystationStoreAngular.git
+   ```
 
-## Running unit tests
+2. **Navegue até o Diretório:**
+   ```
+   cd PlaystationStoreAngular
+   ```
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+3. **Instale as Dependências:**
+   ```
+   npm install
+   ```
 
-## Running end-to-end tests
+4. **Execute o Servidor de Desenvolvimento:**
+   ```
+   ng serve
+   ```
 
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
+5. **Acesse a Aplicação:**
+   Abra seu navegador e acesse `http://localhost:4200/` para visualizar a aplicação.
 
-## Further help
+## Funcionalidades Principais
 
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+- Recriação da interface da PlayStation Store.
+- Utilização de componentes Angular para estruturar o layout.
+- Refatoração de trechos específicos do projeto para melhorar a qualidade do código.
+- Organização eficiente de todo o projeto.
+
+## Contribuição
+
+Se desejar contribuir para este projeto, siga as práticas comuns de contribuição. Sua ajuda é bem-vinda!
+
+## Licença
+
+Este projeto está sob a Licença [MIT](LICENSE). Consulte o arquivo LICENSE para obter mais detalhes.
